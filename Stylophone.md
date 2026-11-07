@@ -21,10 +21,6 @@ Use LM358P op amp with a capacitor to smoothen out the frequency from the 555 ou
 
 Keep Pin 5 (control voltage) connected to gnd through a 10nF capacitor
 
-“Imma style the phone of my heart into you” 
-
-- Isaaq Mushtaq, 2026
-
 the first “resistor” is actually the fixed resistor at 1kohm  
 The second resistor in parallel with the diode is actually the combined resistance of music notes  
 The stylus is a disconnection at the intersection between pin 2 and the second resistor so it touches the “second resistor”  
